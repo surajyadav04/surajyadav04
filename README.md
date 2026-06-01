@@ -16,21 +16,32 @@
 </p>
 
 <br>
-<h3 align="center">🚀 Open Source Architecture</h3>
+<h3 align="center">🚀 Featured Projects</h3>
+<br>
+
 <div align="center">
-  <a href="https://github.com/surajyadav04/placeprep-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=surajyadav04&repo=placeprep-ai&theme=synthwave&hide_border=true&bg_color=0D1117" alt="PlacePrep AI" width="48%" />
-  </a>
-  <a href="https://github.com/surajyadav04/WISE-AI-Defense">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=surajyadav04&repo=WISE-AI-Defense&theme=synthwave&hide_border=true&bg_color=0D1117" alt="WISE-AI-Defense" width="48%" />
-  </a>
-  <br/>
-  <a href="https://github.com/surajyadav04/smart-cart">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=surajyadav04&repo=smart-cart&theme=synthwave&hide_border=true&bg_color=0D1117" alt="smart-cart" width="48%" />
-  </a>
-  <a href="https://github.com/surajyadav04/the-weird-wanderer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=surajyadav04&repo=the-weird-wanderer&theme=synthwave&hide_border=true&bg_color=0D1117" alt="the-weird-wanderer" width="48%" />
-  </a>
+  <table>
+    <tr>
+      <td width="25%"><b><a href="https://github.com/surajyadav04/placeprep-ai">PlacePrep AI</a></b></td>
+      <td>A next-gen platform for placement preparation featuring AI-driven resume roasting and Gemini-powered mock interviews.</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/surajyadav04/WISE-AI-Defense">WISE-AI-Defense</a></b></td>
+      <td>Cloud-integrated browser Intrusion Prevention System (IPS) utilizing Generative AI and OSINT Threat Intelligence.</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/surajyadav04/adityaworks-portfolio">AdityaWorks Portfolio</a></b></td>
+      <td>Cinematic, high-performance personal portfolio built with Next.js and advanced framer motion animations.</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/surajyadav04/the-weird-wanderer">The Weird Wanderer</a></b></td>
+      <td>An immersive, highly visual digital travel portfolio and destination blog platform.</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/surajyadav04/smart-cart">Smart Cart</a></b></td>
+      <td>Automated, intelligent e-commerce shopping cart management and optimization engine.</td>
+    </tr>
+  </table>
 </div>
 <br>
 
