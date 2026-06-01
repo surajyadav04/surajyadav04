@@ -10,19 +10,28 @@
 </h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="60" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30" />
   <b>Transforming caffeine into funky, scalable digital experiences.</b>
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="60" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30" />
 </p>
-
----
 
 <br>
-<h3 align="center">🔥 Current Fixation: <a href="https://placeprepai.vercel.app">PlacePrep AI</a></h3>
-<p align="center">
-A next-gen platform for placement preparation. Features an asymmetrical glassmorphism UI, <br>
-AI resume roasting, and real-time mock interviews powered by Gemini.
-</p>
+<h3 align="center">🚀 Open Source Architecture</h3>
+<div align="center">
+  <a href="https://github.com/surajyadav04/placeprep-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=surajyadav04&repo=placeprep-ai&theme=synthwave&hide_border=true&bg_color=0D1117" alt="PlacePrep AI" width="48%" />
+  </a>
+  <a href="https://github.com/surajyadav04/WISE-AI-Defense">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=surajyadav04&repo=WISE-AI-Defense&theme=synthwave&hide_border=true&bg_color=0D1117" alt="WISE-AI-Defense" width="48%" />
+  </a>
+  <br/>
+  <a href="https://github.com/surajyadav04/smart-cart">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=surajyadav04&repo=smart-cart&theme=synthwave&hide_border=true&bg_color=0D1117" alt="smart-cart" width="48%" />
+  </a>
+  <a href="https://github.com/surajyadav04/the-weird-wanderer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=surajyadav04&repo=the-weird-wanderer&theme=synthwave&hide_border=true&bg_color=0D1117" alt="the-weird-wanderer" width="48%" />
+  </a>
+</div>
 <br>
 
 ---
